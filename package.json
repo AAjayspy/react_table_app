@@ -2,6 +2,9 @@
     "name": "react_table_app",
     "version": "0.1.0",
     "private": true,
+    "engines": {
+        "node": "16.5.0"
+    },
     "dependencies": {
         "@material-ui/core": "^4.10.2",
         "@testing-library/jest-dom": "^5.11.4",
